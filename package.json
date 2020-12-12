@@ -176,7 +176,7 @@
     "imurmurhash": "^0.1.4",
     "inherits": "^2.0.4",
     "infer-owner": "^1.0.4",
-    "ini": "^1.3.5",
+    "ini": "^1.3.6",
     "ipaddr.js": "^1.9.1",
     "ip": "^1.1.5",
     "ip-regex": "^2.1.0",
