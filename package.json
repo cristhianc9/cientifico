@@ -340,7 +340,7 @@
     "source-list-map": "^2.0.1",
     "source-map": "^0.5.7",
     "source-map-url": "^0.4.0",
-    "ssri": "^6.0.1",
+    "ssri": "^8.0.1",
     "split-string": "^3.1.0",
     "static-extend": "^0.1.2",
     "statuses": "^1.5.0",
