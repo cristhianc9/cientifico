@@ -282,7 +282,7 @@
     "path-dirname": "^1.0.2",
     "path-key": "^2.0.1",
     "path-parse": "^1.0.7",
-    "path-to-regexp": "^0.1.7",
+    "path-to-regexp": "^0.1.12",
     "pinkie": "^2.0.4",
     "pbkdf2": "^3.0.17",
     "pinkie-promise": "^2.0.1",
