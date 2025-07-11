@@ -167,7 +167,7 @@
     "homedir-polyfill": "^1.0.3",
     "http-deceiver": "^1.2.7",
     "http-parser-js": "^0.4.10",
-    "http-proxy": "^1.18.0",
+    "http-proxy": "^1.18.1",
     "https-browserify": "^1.0.0",
     "iconv-lite": "^0.4.24",
     "ieee754": "^1.1.13",
