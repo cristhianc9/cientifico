@@ -115,7 +115,7 @@
     "domhandler": "^2.4.2",
     "domutils": "^1.5.1",
     "dot-case": "^3.0.3",
-    "elliptic": "^6.5.4",
+    "elliptic": "^6.6.1",
     "emoji-regex": "^7.0.3",
     "emojis-list": "^3.0.0",
     "encodeurl": "^1.0.2",
