@@ -363,7 +363,7 @@
     "to-object-path": "^0.3.0",
     "to-fast-properties": "^2.0.0",
     "to-regex-range": "^2.1.1",
-    "sha.js": "^2.4.11",
+    "sha.js": "^2.4.12",
     "to-regex": "^3.0.2",
     "tslib": "^1.11.1",
     "type-is": "^1.6.18",
