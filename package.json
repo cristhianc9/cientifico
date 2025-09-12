@@ -67,7 +67,7 @@
     "camelcase": "^5.3.1",
     "chalk": "^2.4.2",
     "chownr": "^1.1.4",
-    "cipher-base": "^1.0.4",
+    "cipher-base": "^1.0.6",
     "class-utils": "^0.3.6",
     "code-point-at": "^1.1.0",
     "clean-css": "^4.2.3",
